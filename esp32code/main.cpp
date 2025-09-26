@@ -13,7 +13,7 @@
 #define API_KEY "AIzaSyC9tpeIbMWG0UOW0CE4CBdlJETANdqDdQ0"
 #define DATABASE_URL "https://esp32-31831-default-rtdb.asia-southeast1.firebasedatabase.app/"
 #define USER_EMAIL "tgunachandru@gmail.com"
-#define USER_PASSWORD "#Gchan57"
+#define USER_PASSWORD ""
 
 // Sensor Pins
 #define POWER_PIN 17
